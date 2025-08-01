@@ -1,6 +1,8 @@
 # No-Code Workflow Builder Application
 
 A comprehensive visual workflow builder that enables users to create intelligent AI-powered workflows using drag-and-drop components.
+Fusion Flow
+link: https://meek-puppy-c79e35.netlify.app/
 
 ## 🚀 Features
 
@@ -189,10 +191,6 @@ src/
 - Use the browser's developer tools to monitor API calls
 - Check the console for detailed error messages
 - Validate your workflow structure before execution
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
