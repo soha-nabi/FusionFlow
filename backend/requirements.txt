@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+
+# For AI and Database integration
+openai
+chromadb-client
+sentence-transformers
+python-dotenv
